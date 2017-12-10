@@ -1,0 +1,3 @@
+Ctrl-Shift-Enter
+to close the missing braces on the current line (if any),
+add the missing colon (if missing) and put the caret into the correctly indented position on the next line.
